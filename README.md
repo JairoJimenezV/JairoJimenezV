@@ -6,8 +6,6 @@
 </p>
 
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
-
-
 ## ⚡🙋‍♂️ About Me
 Soy estudiante de Ingeniería de Sistemas, alguien que disfruta resolver problemas y aprender constantemente sobre tecnología. Me interesa tanto el desarrollo de software como la administración de sistemas, y estoy construyendo mi camino hacia ser un profesional completo en el mundo tecnológico.
 
