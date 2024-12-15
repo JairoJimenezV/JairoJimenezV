@@ -4,7 +4,17 @@
 
 <img src="https://i.pinimg.com/736x/15/79/6d/15796d466bf8be86af9c6a9219d87b0d.jpg" width="30px">&nbsp;***About me***
 
+Soy estudiante de Ingeniería de Sistemas, alguien que disfruta resolver problemas y aprender constantemente sobre tecnología. Me interesa tanto el desarrollo de software como la administración de sistemas, y estoy construyendo mi camino hacia ser un profesional completo en el mundo tecnológico.
 
+💡 ¿Qué hago?
+Me gusta crear soluciones prácticas para facilitar procesos.
+Experimento con tecnologías como desarrollo web, bases de datos y servidores.
+Actualmente, estoy trabajando en proyectos que combinan desarrollo, virtualización y optimización de redes.
+🔍 ¿Por qué me apasiona?
+Porque creo que la tecnología tiene el poder de transformar cómo vivimos y trabajamos. Quiero formar parte de ese cambio, aportando ideas y soluciones que realmente hagan la diferencia.
+
+🚀 En camino...
+Estoy aprendiendo, cometiendo errores y creciendo en el proceso. Cada proyecto que hago es un paso hacia mis objetivos: trabajar en algo que me inspire, seguir desarrollándome y compartir mi conocimiento con otros.
 - 📫 Reach out to me at: <a href="jairojimenez2810@gmail.com">jairojimenez2810@gmail.com</a>
 
 ## My Skills Include
