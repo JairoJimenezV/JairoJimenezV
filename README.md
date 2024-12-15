@@ -5,10 +5,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-
-
-
 - 📫 Reach out to me at: <a href="jairojimenez2810@gmail.com">jairojimenez2810@gmail.com</a>
 
 ## My Skills Include
