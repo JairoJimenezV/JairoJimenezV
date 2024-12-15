@@ -3,8 +3,6 @@
 <img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/736x/15/79/6d/15796d466bf8be86af9c6a9219d87b0d.jpg" />
 
 ## ⚡🙋‍♂️ About Me
-<img src="https://i.pinimg.com/736x/15/79/6d/15796d466bf8be86af9c6a9219d87b0d.jpg" width="30px">&nbsp;***About me***
-
 Soy estudiante de Ingeniería de Sistemas, alguien que disfruta resolver problemas y aprender constantemente sobre tecnología. Me interesa tanto el desarrollo de software como la administración de sistemas, y estoy construyendo mi camino hacia ser un profesional completo en el mundo tecnológico.
 
 💡 ¿Qué hago?
